@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ClassesActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="6dp"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vowels"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/vowel_class"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/vowel_class"
+        android:gravity="center_horizontal"
+        android:id="@+id/vowel_options">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Sounds"
+                android:id="@+id/vowel_sounds_class"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Length"
+                android:id="@+id/vowel_length_class"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Consonants Place"
+        android:id="@+id/consonant_place_class"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/vowel_options"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/consonant_place_class"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/consonant_place_options">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Labial"
+                android:id="@+id/labial_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Dental"
+                android:id="@+id/dental_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-3dp" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Alveolar"
+                android:id="@+id/alveolar_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Palatal"
+                android:id="@+id/palatal_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-3dp" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Velar"
+                android:id="@+id/velar_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Uvular"
+                android:id="@+id/uvular_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Consonants Manner"
+        android:id="@+id/consonant_manner_class"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/consonant_place_options"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/consonant_manner_class"
+        android:layout_alignParentLeft="true">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Stops"
+                android:id="@+id/stops_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Fricatives"
+                android:id="@+id/fricatives_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-3dp" >
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Sonorants"
+                android:id="@+id/sonorants_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+            <Button
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:text="Glottals"
+                android:id="@+id/glottals_button"
+                android:backgroundTint="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:onClick="onButtonClick"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

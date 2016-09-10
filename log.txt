@@ -1,0 +1,866 @@
+commit 42ba4c5bbd45db4eaeb88f38cceb57c9fcc22092
+Merge: b0eed9b 060da76
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 22 13:02:16 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 060da764ef2a53e4d297ed851f1fb4bdf4c32e45
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 22 12:46:48 2016 -0400
+
+    compare and class from hear sounds
+
+commit b0eed9b28129847b91c081370d2f202f85f9445e
+Merge: b5d6de0 b85436a
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 22 12:44:32 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit b5d6de0fb6b7abd658d941aeb770fad6371f2b2d
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 22 12:44:13 2016 -0400
+
+    kashayaplayer changes
+
+commit b85436adda38f1f5af26d4a6552cd480fc774f5f
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 12:30:02 2016 -0400
+
+    delete unnecessary code
+
+commit 4f08d60feea8ae50fa18cb23eb3fc91b4a15efca
+Merge: 0a9f6e2 523c98a
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 12:26:34 2016 -0400
+
+    mergeMerge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 0a9f6e2162f783b3bb5b2f5f643d476986b8f04f
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 12:26:13 2016 -0400
+
+    fix recording in comparesinglesound
+
+commit 523c98ae7d1583f013d22e7e057694054428352f
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 22 12:22:13 2016 -0400
+
+    toggle hear sounds compare/search/class
+
+commit a32ddf71fd85d1cb3f4c42830a5e6c0f6cd8fd2f
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 12:17:16 2016 -0400
+
+    delete parallelrecordlistener
+
+commit 4ae3032534032467386cc61aa940aded71561be6
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 11:58:43 2016 -0400
+
+    fix recording
+
+commit 1c380b2ebd89c0982f613f47d378057ef87ff4f0
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 22 11:46:25 2016 -0400
+
+    add recording functionality to comparesinglesound
+
+commit 37be88fff797f3e355a28b15cbf82a7730ab9201
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 21:46:19 2016 -0400
+
+    recordsoundactivity now correctly detects list click
+
+commit 47f72f6bab8e20410bfd6c3b723a5701bce2c6b5
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 20:53:20 2016 -0400
+
+    try to fix recordsound
+
+commit 51c5e829a3ed5b1cede5ca9253c80e92e6869b87
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 19:35:52 2016 -0400
+
+    remove number of replays from compare single sound
+
+commit 35ca86bdf1efaf3b4fafe26f1b64bb08a338898b
+Merge: b3aaf5e 3587696
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 19:29:23 2016 -0400
+
+    mergeMerge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit b3aaf5eaead896c4b9be70cd769dbc9cfb91e66f
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 19:29:13 2016 -0400
+
+    change color of button
+
+commit 35876969c7171e556963d2f9caa3ceb6e2bef100
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 19:28:23 2016 -0400
+
+    fixed labial and bilabial
+
+commit 19b7b5f4ab2a18ff89e9dc9c2e93b263057fb661
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 19:10:26 2016 -0400
+
+    removed a from consonants
+
+commit dcca002ef46fdad43ec789293b4668f40cb61b73
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 19:03:18 2016 -0400
+
+    deleted empty activities
+
+commit 7207f8b3a66f4937d5ada60cd2b0e9c708166c7e
+Merge: 602224c e68e071
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 19:01:35 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 602224cbb12766ca458e01c60971dca199d6ee86
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 19:01:16 2016 -0400
+
+    another fix to recordsoundactivity
+
+commit e68e0712268771c29183a939996204ff9c7123ac
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 19:00:24 2016 -0400
+
+    redirect hearwords to comparesinglesound activity
+
+commit 1271dc5b40ef4e95d59fc7124afc548f83bb11d6
+Merge: 61e5ab4 3fb3f66
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:55:04 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 61e5ab4c5359b80515969108a2991e3113eeef53
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:54:37 2016 -0400
+
+    fix to recordsoundactivity
+
+commit 3fb3f6621aaaf343127a23b4097a95edeba8bc98
+Merge: 26dc382 db22c69
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:46:55 2016 -0400
+
+    just trying to pull Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit db22c698cd07e7c23e7e19a6bc3d073cef555a8a
+Merge: b1eb8db b76db37
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:45:38 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 26dc3826568d5f5941822e91956459833aab984e
+Merge: 2ec767b b76db37
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:45:37 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 2ec767bdd479e2c75555567bbff72dc1379260d6
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:41:49 2016 -0400
+
+    add recording listener
+
+commit b1eb8dbdaa3722fbd959c32746e7694e82ab83f5
+Merge: 657d73c 6a59b8c
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:41:26 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 657d73c7bb952021d05f13c7fa1d949053fb8b8a
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:40:53 2016 -0400
+
+    listview select mode change
+
+commit 6a59b8c9be06882fa378a51ad66376ee01114a3c
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:36:32 2016 -0400
+
+    added more functionality to comparesinglesound
+
+commit b76db37a12ed537f85e0aaf5db71708746d1516e
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 18:27:50 2016 -0400
+
+    fixed grid layout for compare sounds and reset sound when tab is changed
+
+commit 2cd5bfe8c1b22fe7d8cd0f42e0a732576dbe26dd
+Merge: a94fca2 4cc2b55
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:26:55 2016 -0400
+
+    merge recordMerge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit a94fca21bf9bc494eb0fb747d7ba2a21a9262fce
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:26:50 2016 -0400
+
+    add delete to comparesinglesound
+
+commit 4cc2b5557c9bf2c39896f52719862d5e617b166b
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:26:11 2016 -0400
+
+    changed button in recordsound
+
+commit ea9d73e8701fc690f9a80a6033b1881b4610e3b6
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:24:26 2016 -0400
+
+    leave it to the user
+
+commit e77a2b1e15b72d7f06bc05716a9a35041f4e5b74
+Merge: e26b599 fce682c
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:06:59 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit e26b5996243d5cd84118d2e2649396d54dfedd40
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:05:49 2016 -0400
+
+    so that i can pull
+
+commit fce682c888561694667169c88a681dd0e5aa1cb2
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Apr 21 18:04:25 2016 -0400
+
+    start currentlyExecuting
+
+commit 8dd93dc6c7effb3cc278723a670144cdc37f12a4
+Merge: 882da48 e1fef2e
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:03:04 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 882da48fe07f9668bfa221667d02c576deb73b38
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 18:02:40 2016 -0400
+
+    base skeleton
+
+commit e1fef2e09a15eb06fa02191c693eeb43ed611c7f
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 17:13:44 2016 -0400
+
+    cleaned up about page
+
+commit 8b3b3785f7b6d5e7b789ab07b75173c71c65063a
+Merge: 3d387fd 2955ecd
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 16:59:48 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 3d387fd1896a377c69025ddd29377f3a47bb7abd
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 21 16:50:19 2016 -0400
+
+    skeleton for cmp single activity
+
+commit 2955ecd1e7785de85dc455e7bf013b716e61e37d
+Merge: 1cd1ae6 ee279e7
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 16:39:40 2016 -0400
+
+    fixed sound playback on hear words, fixed search bar, special characters, and floating button
+
+commit 360b855edc000b6439b0de8203b58906770740de
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Thu Apr 21 03:03:59 2016 -0400
+
+    Re-reorganize classes
+
+commit 1cd1ae610c956f5a9494dea06a9a8506abbe4cd7
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Thu Apr 21 01:52:23 2016 -0400
+
+    sound plays when clicked on word in hear words, fixed edit text and cursor position
+
+commit ee279e75e1527e2ceb0f8e775d024784b086eb79
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Thu Apr 21 01:24:19 2016 -0400
+
+    Reorganize classes
+
+commit ed3790df3f3b3797770550341e8be9618232b4c2
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Mon Apr 11 02:20:52 2016 -0400
+
+    docs
+
+commit 4ea2e22cbdcbdfafde98e55bef476cce65781f90
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Mon Apr 11 02:05:36 2016 -0400
+
+    cleanup
+
+commit d406afb7a45713d031b0fd958b0299494c959bed
+Merge: 591da56 0a4687d
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Mon Apr 11 00:57:20 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 0a4687d4e555b421bf9d486549405a5bc5a39b6e
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Mon Apr 11 00:33:53 2016 -0400
+
+    recover
+
+commit 591da56ddf3c35f13a8a49ac7f4d4a46aab348fc
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 14:24:45 2016 -0400
+
+    changed special character buttons and fixed lower case keyboard
+
+commit 64e9b7028613ba5fc4b716c1bbbb60edaea94ba8
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 13:51:21 2016 -0400
+
+    fixed quit button
+
+commit 64fca83e7db501cafe0c16dd9a1864c6fdf6c8a9
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 13:47:46 2016 -0400
+
+    improved hear words layout, fixed ta sound, fixed glottals
+
+commit da33b4ed31c167a0fb1284c56a4a17e380b8fa20
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 03:09:23 2016 -0400
+
+    trying to make hear words look nicer
+
+commit edf097b7f2730aafa4d03a900d800142e36d3e97
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 00:55:25 2016 -0400
+
+    fixed columns and layout for hear sounds
+
+commit e53a69fdcc1b05c29b431768ae87e616d65e7a98
+Merge: 749a712 5a0d587
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 00:34:33 2016 -0400
+
+    test 2
+
+commit 749a7124a0ac205e9141c3eb648b007a5187edc8
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Apr 8 00:29:25 2016 -0400
+
+    testing
+
+commit 5a0d587bd27c6c3861059496c34dedd267cd8bdb
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Thu Apr 7 19:16:36 2016 -0400
+
+    Live search
+
+commit 506e302cb2f1c5d7b4387f1018a2ef05ae1beb73
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 7 15:58:27 2016 -0400
+
+    gitignore
+
+commit 00078581d114f933c8abc7ac64c089389653c995
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Apr 7 15:47:20 2016 -0400
+
+    documented KashayaPlayer
+
+commit f3a6a783f291b82ab26e461614801a65a2e88f43
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Tue Apr 5 22:44:30 2016 -0400
+
+    add compare button for recording sound
+
+commit 5bd73ea0285640a103adf7890a67c19a5fbe5c8a
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Tue Apr 5 20:39:39 2016 -0400
+
+    can select word and go to personal comparator
+
+commit 839e253e80386a15088e83f9f5b91bda9b358124
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Tue Apr 5 14:14:22 2016 -0400
+
+    potential fix for recorded sound playback in click listeners
+
+commit 58597e070cc0d52dad4033272cbcbfe6a56828ca
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Tue Apr 5 14:06:47 2016 -0400
+
+    small change to deleter
+
+commit c1708dcf5b20a803090793cdadf39cf46abb80a2
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Sun Apr 3 00:34:14 2016 -0400
+
+    Add glottals
+    
+    No sound files
+
+commit d4e71fc5844cee7ffa14b03c09d884280d592d11
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Sat Apr 2 23:59:17 2016 -0400
+
+    Fix vowels/consonants layout
+
+commit 886d1b4510ca650aa2d001955d1e9d7826d3edf9
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Sat Apr 2 12:33:54 2016 -0400
+
+    Add class description
+
+commit 243847306b9f258ea8f0874251c806009a13efd4
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 13:42:21 2016 -0400
+
+    repo fix 6
+
+commit dd98de8743ef093366678a095a332efc41769fbd
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 13:41:31 2016 -0400
+
+    removed gitignore 2
+
+commit e60c10cf78f3aac6bbc2b99e7c41220e71014bfd
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 13:31:11 2016 -0400
+
+    repo fix 5
+
+commit b377082b1223b59a68a31ead8d2f416954bb0245
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 13:21:23 2016 -0400
+
+    apk files
+
+commit 9f10d86111e5a78ac4398b6debaeb1e5876f0fe0
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 12:50:07 2016 -0400
+
+    repo fix 2
+
+commit deade2ee0565f58b83d527ebccd2082786f9c360
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 12:32:44 2016 -0400
+
+    repo fix
+
+commit b15f3943a98890c6d4e3b8553c07c027b80a9a11
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 11:53:43 2016 -0400
+
+    removed config files
+
+commit 2f809adbc3a7557504035a667e1e7b4d14b46fa0
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Apr 1 11:46:32 2016 -0400
+
+    change checkbox id
+
+commit 238c6c8221f14ea2e51ccf1f7630b0be8a1fcd9b
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 01:07:43 2016 -0400
+
+    hear words selector
+
+commit f68ded4f013a781ca59c11551e52fe1600c4ba0f
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Apr 1 00:48:18 2016 -0400
+
+    sound recording files, not completely sure if functional or not, i don't have an android phone
+
+commit 8b36a12f1778dc26aecd41b8a880ffcd67e5f9bc
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 17:57:31 2016 -0400
+
+    some changes to resourceloader regarding user-recorded sounds
+
+commit 4ab7842d0acb6283f5fc07bf1623b0011e06e6f4
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:52:24 2016 -0400
+
+    bugfix in ResorceLoader, now public
+
+commit 4153a30fdeef1454935070ab168bed188d49dcbc
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:33:06 2016 -0400
+
+    structural change 3
+
+commit 7cb1be2b4492b1c070d67cfc84f5483a87690db3
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:29:58 2016 -0400
+
+    changes to structure 2
+
+commit 04c957dded420d22f20f24bc32de5900d428529f
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:24:47 2016 -0400
+
+    structural changes
+
+commit c73a2c1d2b0e22e025df8e16622c7627c25212b0
+Merge: 2fdb78d 6490bf1
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:20:22 2016 -0400
+
+    Merge branch 'master' of https://github.com/cis-upenn/27-Kashaya-Pronunciation-Guide
+
+commit 2fdb78ddaebee4a0f584021fefdb91e2e2773322
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Thu Mar 31 16:19:10 2016 -0400
+
+    structural change
+
+commit 6490bf12efe9d7ed6f03483a56ac82abcb25ba78
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Mar 31 14:39:39 2016 -0400
+
+    added working links
+
+commit d123d060f9885b3eaedc0e38b146cafe14b3b19a
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Mar 31 12:33:16 2016 -0400
+
+    reformat about page
+
+commit 1c82130d9788b5ec724ea3a15362a651e1a3323d
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Mar 31 11:51:45 2016 -0400
+
+    format about page
+
+commit 1c00d1c17ff9aee4c090f6322dedfdba250aac73
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 30 19:48:21 2016 -0400
+
+    fixed spacing on menu
+
+commit de52db46c8b89d4d06481155612245f8919df707
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 30 19:21:19 2016 -0400
+
+    put text on about page
+
+commit 05b0de128222b39e95fbbdd9dc6986160d50437c
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 30 18:53:22 2016 -0400
+
+    add blank about page
+
+commit 5fdb08b59a688363640fa9f12cfe68fbe574a0dc
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 30 18:40:10 2016 -0400
+
+    update gitignore and add AboutActivity
+
+commit d3e6fe06617e8175622b7212d0ffb42416ad6119
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Mar 25 15:53:16 2016 -0400
+
+    fixed hear sounds
+
+commit b190742c6dba417a2eaf40613351db15546fd98d
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Mar 18 13:54:16 2016 -0400
+
+    changed name of personal comparator activity
+
+commit 3d53d2b8d099ab253a330a188d62dd45f2883354
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Wed Mar 9 17:32:15 2016 -0800
+
+    cleaned up some code
+
+commit 0aa14c4b1dc6109fa4ce1b09e9acd48988a3db5f
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Wed Mar 9 17:21:49 2016 -0800
+
+    added spaces for consonants with 2 pronunciations
+
+commit 5a02515f33e1db2aaf56eed288567ffd832b99b7
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 9 11:15:58 2016 -0500
+
+    compare button goes to new page
+
+commit 77432bda4bb7ab0f81d09fb518a6ef7c3aaaa938
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Wed Mar 9 10:15:05 2016 -0500
+
+    deleted << and changed grid to 3 columns
+
+commit 830d5aee788031bde6a1452cf334c163edf374be
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Wed Mar 9 01:26:51 2016 -0500
+
+    add sounds to classes
+
+commit 384d5db14f9a457306690228b3594370d96be3f8
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Tue Mar 8 18:40:09 2016 -0800
+
+    playback multiple times button enabled
+
+commit d87c884b1ad89bdfab17afb8b20d7fa073837167
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Tue Mar 8 18:32:17 2016 -0800
+
+    fixed classes
+
+commit 9d52eaa7814f646e2e4b7d86891e9eb595e1512c
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Tue Mar 8 18:07:49 2016 -0800
+
+    organized vowels and consonants, image shows for class only when directed from hear sounds at the moment
+
+commit 7ba31aec1271e222274ac1c90290390a6eed75c8
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Tue Mar 8 16:58:11 2016 -0800
+
+    info button redirects to class selected activity
+
+commit 0dcd7098850a583f9591e65adf35615950f16e6b
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Tue Mar 8 16:32:49 2016 -0800
+
+    added classes
+
+commit 8c491fe23382efe4f162f2d35122b7a5afcce356
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Mon Mar 7 22:55:33 2016 -0800
+
+    added highlight to hear sounds activity
+
+commit f90c4b86bf5eaceeeb05c35217a1436746321077
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Sat Feb 27 23:34:02 2016 -0500
+
+    finished user story 9 completely
+
+commit 11f101736a80882cecd672e591db890d89b3b3bc
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Sat Feb 27 21:33:40 2016 -0500
+
+    hear words activity finished
+    
+    !!!
+
+commit 1f5348beed644dfd54bc95a45c7fcad248979cf1
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Sat Feb 27 18:57:47 2016 -0500
+
+    added floating button and repeat icons to compare activity
+
+commit 56504eb53dcee21d26e136f7d980652f11fa3c29
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Feb 26 21:01:17 2016 -0500
+
+    changed size of sub action buttons
+
+commit 68d9de364fc0be3aead61b1ad564965bba19ade0
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Feb 26 19:52:26 2016 -0500
+
+    fixed floating action buttons
+
+commit 17cb89048b313c73c7e3448076c202510d907d75
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 26 11:03:03 2016 -0500
+
+    fixed sound comparator
+
+commit d288840ace1bc668d8d72f40d0f132faa9605e33
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Feb 26 02:24:30 2016 -0500
+
+    added classes activity
+
+commit b3155a42a952dd603476444683c5ab843493b8e6
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Feb 26 01:58:47 2016 -0500
+
+    fixed compare sounds activity, added icons
+
+commit 1d2b90041e2325d11160c39bab2d3500c68faaf8
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Feb 25 14:50:58 2016 -0500
+
+    Adding sound selector view
+
+commit 4a366101eb2718d92aa86e0264a2cdd15250a825
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Feb 25 13:23:55 2016 -0500
+
+    add comparison fragment
+
+commit 314a83e3128edbd74b252fd7f3de9d8d76c8d3ca
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Feb 25 12:50:23 2016 -0500
+
+    remove classes button
+
+commit e8fd45252eeaba079ea52fd62964068a78a1a33b
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Feb 25 12:46:53 2016 -0500
+
+    fix layout of menu
+
+commit a6eedae4644c791885a046c9e67d020f4d66436e
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Thu Feb 25 12:26:41 2016 -0500
+
+    removed unimplemented classes and renamed variables
+
+commit 69fa59400a6d76b87b49cf1d8b325b74802d2b3b
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 16:53:56 2016 -0500
+
+    works with consonants, but still stutters
+
+commit ad0a01d13bd85c4272e06040c632ff9e2c3c207f
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 15:28:32 2016 -0500
+
+    updated gitignire
+
+commit 6d06c279f022f857a33706f1f1d381c98aed63a7
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 15:26:14 2016 -0500
+
+    small changes to support consonants
+
+commit 4606e63e0d82ab504722aea19a942c9f78adb4c3
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 19 14:52:58 2016 -0500
+
+    Add internet permission in manifest
+
+commit 05d12b6a09851879c4add9a1176880d957e4308f
+Author: eureika <yoshino.reika@gmail.com>
+Date:   Fri Feb 19 14:11:53 2016 -0500
+
+    testing
+
+commit eedda1ee221491cae2ccba1d909cc30313f09985
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 19 14:06:34 2016 -0500
+
+    landing page layout
+
+commit b85eff06a7b7863261291180402d6093f724a180
+Merge: 3ce7e58 e36da5b
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Feb 19 13:56:32 2016 -0500
+
+    deleted comment
+
+commit 3ce7e58bf6bfae17d0bcf7bbddecca615828997f
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Feb 19 13:55:09 2016 -0500
+
+    test
+
+commit e36da5bd446d6a60f5a247a332e060ff58930d05
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 13:50:48 2016 -0500
+
+    test
+
+commit f893a92dd98369b60c43980d211cb96b888c1df2
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Feb 19 13:16:41 2016 -0500
+
+    test
+
+commit c156aaf92a86c7d764ea3dbc77ee5cae93b12594
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 13:02:37 2016 -0500
+
+    plays vowels now
+
+commit 1f9218776d0a7610b4a2ff8e857f6e2fc34d9a51
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 12:09:57 2016 -0500
+
+    added KashayaPlayer to play resource files by inputting the name of the sound or word
+
+commit 23ac33f061f196df8b8854f5b34b02b25ead2757
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 19 10:45:03 2016 -0500
+
+    merge conflict fix
+
+commit d5537ee7b5439f144885bf90e2cda25956babcbe
+Author: Camille <cajwo@sas.upenn.edu>
+Date:   Fri Feb 19 09:22:33 2016 -0500
+
+    added sounds to vowels
+
+commit 0a1475878ec6d4fa55ca497fb69e0346cfc00f03
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 19 03:13:14 2016 -0500
+
+    Restructured classes
+    
+    Created Syllable, vowel and consonant classes
+
+commit cbf59b8dfadae959559e73d801007261f68f3c86
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 19 03:05:03 2016 -0500
+
+    Fixed toolbar and color scheme
+
+commit 4f81466fcac8e9d21f230efda82794652effc55f
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 19 02:11:22 2016 -0500
+
+    Add tab and grid in hear sounds
+
+commit 7a21ffd3f3f8432752de1c3398d46f0795d9dc33
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 12 15:13:48 2016 -0500
+
+    Welcome Screen done
+    
+    Very basic layout design, room for improvement
+
+commit 6fd835640cc58f74b7bdb7a9469d044b493ffec1
+Author: He Chen <chenhe95@hotmail.com>
+Date:   Fri Feb 12 14:35:53 2016 -0500
+
+    Base project added; clone from git and import to Android Studio
+
+commit 348c744ffe6644b12ead4a360d58fceaba70f2db
+Author: cccfran <www.tsai.com@gmail.com>
+Date:   Fri Feb 12 14:24:26 2016 -0500
+
+    Add user story and timeline
+
+commit a244b3e828e34cea72862c9337cc2f0f5624b0e3
+Author: cokifigue <cfigu@seas.upenn.edu>
+Date:   Fri Feb 5 13:52:09 2016 -0500
+
+    Initial commit

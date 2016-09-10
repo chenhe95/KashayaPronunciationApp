@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name">Kashaya Sounds</string>
+    <string name="title_activity_hear_sounds">HearSoundsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_update">Update</string>
+    <string name="action_quit">Quit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_word_search">WordSearchActivity</string>
+    <string name="title_activity_class_vowels_short">ClassVowelsShortActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_personal_comparator">Kashaya Pronounciation Guide</string>
+
+    <string name="about_text1">
+        <b>ABOUT THE APP\n</b>
+        by Gene Buckley\n
+        \n
+            \t\t Kashaya is a Native American language spoken in Sonoma County in northern
+        California; it is one of seven languages in the Pomoan family. This app is designed as a
+        guide to the pronunciation of Kashaya, for the use of tribal members and others
+        interested in learning about the language.\n
+            \t\t Several native speakers of Kashaya are represented in the sound files. The individual
+        sounds are pronounced by Otis Parrish. The example words are pronounced by Essie
+        Parrish, Isabelle Johnson, Milton (Bun) Lucas, and Anita Silva. Additional sound files
+        will be added over time in order to provide more complete coverage of the
+        pronunciation; choose Update from the menu on the Home screen to check for the most
+        recent version.\n
+        \n
+            \t\t This app was designed in Spring 2016 at the University of Pennsylvania with a team of
+        students in the course CIS 350: Software Design &amp; Engineering (Junhui Cai, He Chen, Camille Jwo,
+        and Reika Yoshino). \n
+            \t\t Please send reports of errors, or suggestions for improvement, to
+        <a href="mailto:gene@ling.upenn.edu">gene@ling.upenn.edu</a>.\n
+
+</string>
+
+    <string name="about_text2">
+            \t\t The research that enabled the recordings of Otis Parrish and Anita Silva was supported by a
+        Documenting Endangered Languages grant from the
+        <a href="http://www.neh.org">National Endowment for the Humanities.</a> Any views, findings,
+        conclusions, or recommendations expressed in
+        this program do not necessarily represent those of the NEH.
+    </string>
+    <string name="title_activity_record_sound">RecordSoundActivity</string>
+
+
+    <string-array name="descriptions">
+        <item>sounds|
+            <strong>Kinds of Vowels</strong>\n
+            Linguists describe the tongue position during a vowel by referring to the height of the
+            tongue (high, mid, low) and how far front or back it is in the mouth. This diagram shows
+            the five vowels of Kashaya: high is at the top, and front is at the left.\n\n
+            These vowels correspond to the spellings used in languages like Spanish. For English, the
+            equivalent vowels are approximately as found in the following words:\n\n
+            i = beat, e = bait,
+            a = bought, o = boat, u = boot. \n\n
+            Note that the vowel assumed for bought is the one found
+            in California, but some speakers of English will differ; a more widely reliable English
+            equivalent is the first syllable of father.\n\n\n
+        </item>
+
+        <item>length|
+            Vowels in Kashaya can be either short or long. A short vowel is pronounced for a relatively
+            brief period of time, and a long vowel for a somewhat longer time, as you can hear by
+            comparing the recordings.\n\n
+
+            The difference is not what is found in English pairs such as bit and bite, even though
+            the same terms “long” and “short” are used, because here the vowels differ not just in
+            how long they’re said, but the way the tongue is positioned during the vowel. \n\n
+
+            A closer analogy in English is found in word pairs such as bit and beat, which are
+            noticeably different in duration but also somewhat in tongue position. In Kashaya,
+            the difference between long and short is mainly in the duration, not in the position of
+            the tongue.\n\n
+
+            </item>
+
+        <item>consonants|Kinds of stops\n\n
+            At each place of articulation, the stop consonants of Kashaya occur in at least three
+            forms, sometimes four. These have to do with the activity of the larynx (voicebox) during
+            their articulation.\n\n
+
+            Aspirated stops (written with ʰ) have a puff of air when released. This is similar to the
+            way that the similar sounds in English are pronounced at the beginning of a word, and so
+            they are fairly easy for English speakers to imitate.\n\n
+
+            Plain (unaspirated) stops occur in English also but are more limited in their occurrence.
+            The sounds p t k are plain when they occur after s at the beginning of a word; so the p
+            in pit is aspirated, but the one in spit is not. The same is true for other pairs such as
+            tack, stack and car, scar. If you say these words and pay close attention, you may notice
+            a puff of air in pit, tack, car but none in spit, stack, scar. In Kashaya, these distinct
+            sounds pʰ tʰ kʰ and p t k and can both occur at the beginning of a word, so a correct
+            pronunciation must make the same difference. There are other contexts in which you might
+            hear this difference in English; for example, the word happy has a plain p, different
+            from the pʰ in pea.\n\n
+
+            Ejectives are a very distinctive kind of sound, found in many Native languages of
+            California. The speaker makes a closure in the larynx like the glottal stop ʔ as well as
+            a regular stop closure such a p, compresses the air in the mouth by raising the larynx,
+            and then releases both the stop and the larynx at the same time. This causes a distinctive
+            popping sound. Perhaps the easiest way to learn to make such sounds is to try saying the
+            stop (like p) with a short vowel followed by the glottal stop (ʔ) and another vowel, and
+            then gradually shortening the first vowel until it is completely eliminated and the two
+            consonant sounds become one.\n\n
+
+            Finally, Kashaya has just two voiced stops, b and d. These are similar to the sounds in
+            English, but sometimes Kashaya p, ṭ will sound like English b, d, especially at the
+            beginning of a word. Compare the middle sounds in English abbey and happy are like
+            Kashaya b and p, while pea is like pʰ. Try listening to the recordings to hear the
+            difference in Kashaya words.
+        </item>
+
+
+        <item>stops|Linguists distinguish various manners of articulation. This has to do with the
+            general nature of constriction involved in the pronunciation of the consonant, independent
+            of where the constriction is made. \n\n
+
+            Stops involve complete blockage of the flow of air. There are a great many stops in Kashaya,
+            which vary according to the place of articulation (where the constriction is made) as well
+            as how the stop is released (plain, aspirated, ejective, voiced)\n\n
+
+            Another manner of articulation is an affricate. This sound consists of a very brief stop
+            followed by a fricative. The Kashaya palatal “stop” c is really an affricate. It is
+            pronounced very much like English ch, which is also an affricate.\n\n
+        </item>
+
+        <item>labial|Sounds that involve the lips as their place of articulation are called
+            labial. Both lips together, as in Kashaya, are bilabial. This include the stops <b>p pʰ p’ b</b>
+            and the sonorants <b>m w</b>.\n\n
+
+            The labial consonants are easy for speakers of English, except for getting the difference
+            among the types of p. \n\n
+
+            The glide w is more precisely labiovelar, since it involves both labial and velar articulation
+            in both languages.</item>
+
+        <item>dental| One of the more difficult distinctions to learn in Kashaya is the difference
+            between dental t (written without a dot) and alveolar ṭ (written with a dot underneath
+            the letter). Both are pronounced with the front of the tongue but in different ways.\n
+            Dental t tʰ tʼ are technically lamino-dental: the tongue is flattened (laminal) and touches
+            the teeth and the area just behind it (dental).\n\n
+
+            Be careful to pronounced either kind of t consistently in different positions in the word.
+            In American English, the t in a word like latter is pronounced more like a d, so it sounds
+            like ladder. But in Kashaya, t and d are always kept distinct.</item>
+
+        <item>alveolar|One of the more difficult distinctions to learn in Kashaya is the difference
+            between dental t (written without a dot) and alveolar ṭ (written with a dot underneath
+            the letter). Both are pronounced with the front of the tongue but in different ways.\n
+            Alveolar ṭ ṭʰ ṭʼ are technically apico-alveolar: the tip of the tongue (apical) touches
+            the alveolar ridge a bit behind the teeth. This is fairly similar to the English t sound.\n
+            Be careful to pronounced either kind of t consistently in different positions in the word.
+            In American English, the t in a word like latter is pronounced more like a d, so it sounds
+            like ladder. But in Kashaya, t and d are always kept distinct.</item>
+
+        <item>palatal|The palatal “stops” of Kashaya c cʰ c’ are technically palato-alveolar affricates,
+            but the simple description is that they are pronounced like English ch.\n\n
+            The basic sounds are fairly easy for English speakers, except that plain c often sounds
+            like j in English joke, and aspirated cʰ is more like ch in words such as choke.</item>
+
+        <item>velar|These sets of sounds are both produced by making contact at the back of the tongue.
+            The velars k kʰ kʼ are similar to English (spelled with k or c), except for aspiration.
+            Kashaya plain k resembles English leaking, whereas aspirated kʰ resembles king.\n\n
+
+            English does not have uvular sounds like Kashaya q qʰ qʼ, which are produced further back
+            in the mouth compared to velars. (The uvula is the dangling piece of tissue in the back
+            of the mouth.)\n\n
+
+            The way English speakers produce the first sound of coop is a bit closer to the uvular
+            stop of Kashaya compared to keep – say them to yourself to try to observe the difference
+            – but the Kashaya sounds written with q are even further back.</item>
+
+        <item>uvular|These sets of sounds are both produced by making contact at the back of the tongue.
+            The velars k kʰ kʼ are similar to English (spelled with k or c), except for aspiration.
+            Kashaya plain k resembles English leaking, whereas aspirated kʰ resembles king.\n\n
+
+            English does not have uvular sounds like Kashaya q qʰ qʼ, which are produced further back
+            in the mouth compared to velars. (The uvula is the dangling piece of tissue in the back
+            of the mouth.)\n\n
+
+            The way English speakers produce the first sound of coop is a bit closer to the uvular
+            stop of Kashaya compared to keep – say them to yourself to try to observe the difference
+            – but the Kashaya sounds written with q are even further back.</item>
+
+        <item>stops|Linguists distinguish various manners of articulation. This has to do with the
+            general nature of constriction involved in the pronunciation of the consonant, independent
+            of where the constriction is made.\n\n
+            Stops involve complete blockage of the flow of air. There are a great many stops in Kashaya,
+            which vary according to the place of articulation (where the constriction is made) as well
+            as how the stop is released (plain, aspirated, ejective, voiced)</item>
+
+        <item>fricatives|Linguists distinguish various manners of articulation. This has to do with the
+            general nature of constriction involved in the pronunciation of the consonant, independent
+            of where the constriction is made.\n\n
+            Fricatives involve enough constriction that air can pass only if it is forced through;
+            the turbulent noise that occurs when it is forced through a narrow opening is what gives
+            fricatives their distinctive sound. There are only two basic fricatives in native Kashaya
+            words, s and š, although the first also has an ejective version, s’. The fricative f occurs
+            in some words borrowed from other languages, especially Spanish, such as stú·fa ‘stove’.</item>
+
+        <item>affricate|Linguists distinguish various manners of articulation. This has to do with the
+            general nature of constriction involved in the pronunciation of the consonant, independent
+            of where the constriction is made.\n\n
+            Another manner of articulation is an affricate. This sound consists of a very brief stop
+            followed by a fricative. The Kashaya palatal “stop” c is really an affricate. It is
+            pronounced very much like English ch, which is also an affricate.</item>
+
+        <item>sonorants|Linguists distinguish various manners of articulation. This has to do with the
+            general nature of constriction involved in the pronunciation of the consonant, independent
+            of where the constriction is made.\n\n
+            Sonorants are a broad class of consonants that allow air to flow freely, so their sound
+            comes from vibration of the vocal cords (that is, voicing). There are three general types
+            of sonorants:\n\n
+
+            Nasal consonants (m, n) have a closure in the mouth but allow air to flow through the
+            nose; these are just like English.\n\n
+
+            Liquids (l, r) depend on particular shapes of the tongue but don’t block the flow of air;
+            l is like English, and r is found only in borrowed words. Even in words from Spanish,
+            such as kare·ta ‘wagon’, speakers of Kashaya use an r sound like that of English.\n\n
+
+            Glides (w, y) are also called semivowels, since they are related to the vowel sounds u, i.
+            They are just like the English sounds. These are actually a subtype of the sonorants,
+            but are listed separately in the charts for convenience.</item>
+
+        <item>glottals|The two glottal consonants h and ʔ (the glottal stop), also referred to as
+            laryngeals, occur in two special configurations.\n\n
+
+            1. The glottals can occur as laryngeal increments, immediately preceding another consonant.
+            These are extremely common in Kashaya, as well as in many other California languages.
+            The choice of glottal is largely restricted by the nature of the consonant that follows,
+            but not entirely. With aspirated stops, it must be h, and with ejective and voiced stops,
+            it must be ʔ; but with other consonants, either can occur (though h is more common).\n\n
+
+            2. The glottals also occur following the sonorants and glides, in which case they represent
+            single complex sounds. They can be termed aspirated (combined with h) and glottalized
+            (combined with the glottal stop ʔ). They are pronounced like the sequence\n\n
+
+            The aspirated sonorants and glides are not very common, and often are found in certain
+            verb forms, but also occur in some nouns; they do not occur at the end of a word except
+            in complex situations. The glottalized sounds are common at the end of the absolutive form
+            of the verb, which is like the English infinitive; they also can occur in the middle of a word.\n\n</item>
+
+        <item>glides|Glides (w, y) are also called semivowels, since they are related to the vowel sounds u, i.
+            They are just like the English sounds. These are actually a subtype of the sonorants,
+            but are listed separately in the charts for convenience.</item>
+
+        <item>voiced|At each place of articulation, the stop consonants of Kashaya occur in at least three forms, sometimes four. These have to do with the activity of the larynx (voicebox) during their articulation.\n\n
+Kashaya has just two voiced stops, b and d. These are similar to the sounds in English, but sometimes Kashaya p, ṭ will sound like English b, d, especially at the beginning of a word. Those sounds are included here for comparison.\n\n
+Compare the middle sounds in English abbey and happy are like Kashaya b and p, while pea is like pʰ. Try listening to the recordings to hear the difference in Kashaya words.\n\n
+</item>
+
+        <item>ejective|At each place of articulation, the stop consonants of Kashaya occur in at least three forms, sometimes four. These have to do with the activity of the larynx (voicebox) during their articulation.\n\n
+Ejectives are a very distinctive kind of sound, found in many Native languages of California. The speaker makes a closure in the larynx like the glottal stop ʔ as well as a regular stop closure such a p, compresses the air in the mouth by raising the larynx, and then releases both the stop and the larynx at the same time. This causes a distinctive popping sound. Perhaps the easiest way to learn to make such sounds is to try saying the stop (like p) with a short vowel followed by the glottal stop (ʔ) and another vowel, and then gradually shortening the first vowel until it is completely eliminated and the two consonant sounds become one.\n\n
+</item>
+
+        <item>aspirated|At each place of articulation, the stop consonants of Kashaya occur in at least three forms, sometimes four. These have to do with the activity of the larynx (voicebox) during their articulation.\n\n
+Aspirated stops (written with ʰ) have a puff of air when released. This is similar to the way that the similar sounds in English are pronounced at the beginning of a word, and so they are fairly easy for English speakers to imitate.\n\n
+Plain (unaspirated) stops occur in English also but are more limited in their occurrence. The sounds p t k are plain when they occur after s at the beginning of a word; so the p in pit is aspirated, but the one in spit is not. The same is true for other pairs such as tack, stack and car, scar. If you say these words and pay close attention, you may notice a puff of air in pit, tack, car but none in spit, stack, scar. In Kashaya, these distinct sounds pʰ tʰ kʰ and p t k and can both occur at the beginning of a word, so a correct pronunciation must make the same difference. There are other contexts in which you might hear this difference in English; for example, the word happy has a plain p, different from the pʰ in pea.
+</item>
+
+    </string-array>
+
+</resources>
